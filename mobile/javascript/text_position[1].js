@@ -1,0 +1,1 @@
+﻿positionForPages[1]={page:1,positions:[{word:"INVESTING",left:0.051499,top:0.531789,width:0.317280,height:0.066487},{word:"GUIDE",left:0.385050,top:0.531789,width:0.181962,height:0.066487},{word:"TAINAN",left:0.051499,top:0.564855,width:0.439702,height:0.131799}]};
