@@ -1,0 +1,1 @@
+﻿positionForPages[39]={page:39,positions:[{word:"37",left:0.929803,top:0.938646,width:0.022578,height:0.020354},{word:"CombiningPublicand",left:0.951080,top:0.105902,width:0.018544,height:0.069492},{word:"PrivateResources",left:0.951047,top:0.178397,width:0.018537,height:0.057477},{word:"ReachingouttotheWorld",left:0.950999,top:0.240717,width:0.018551,height:0.081801}]};
